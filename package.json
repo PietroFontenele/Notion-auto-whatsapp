@@ -1,0 +1,17 @@
+{
+  "name": "notion-api",
+  "version": "1.0.0",
+  "description": "Usando API do notion",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "server": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Pietro Fontenele",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^4.0.2"
+  }
+}
