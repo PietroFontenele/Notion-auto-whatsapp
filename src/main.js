@@ -2,6 +2,7 @@
 import { list } from "./Services/List.js"
 import { create } from "./Services/create.js"
 
+
 const metodo = process.argv.at(2)
 
 switch (metodo) {
@@ -12,11 +13,6 @@ switch (metodo) {
     }
     case 'list': {
         list()
-        break
-    }
-    case 'server': {
-        // start the express server instead of CLI
-       list();
         break
     }
     default: {
