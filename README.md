@@ -91,8 +91,11 @@ ________________________________________
 
 ## 3. Requisitos Técnicos
 •	Conexão entre WhatsApp e Notion (pode ser feita através de API, ferramentas como Make, Zapier, ou programação própria).
+
 •	Padronização das mensagens no WhatsApp para que a automação consiga entender corretamente.
+
 •	Configuração da planilha no Notion já formatada para receber os dados.
+
 •	Testes para garantir que os lançamentos estão sendo enviados corretamente.
 ________________________________________
 
