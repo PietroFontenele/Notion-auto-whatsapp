@@ -4,12 +4,16 @@
 
 ## Projeto de Automação Financeira via WhatsApp e Notion
 
-Responsáveis pelo desenvolvimento:
-•	Tiago
+## Responsáveis pelo desenvolvimento:
+•	Tiago Santos Felisberto
+
 •	Pietro Fontenelle
-Orientadores:
+
+
+## Orientadores:
 •	Valcelio Fontenelle
-•	Wagner
+
+•	Wagner Mobile Costa
 ________________________________________
 ## 1. Objetivo do Projeto
 O propósito deste projeto é criar uma automação simples e funcional que permita registrar e controlar todas as movimentações financeiras da empresa (entradas e saídas) através de um grupo no WhatsApp. Esses registros deverão ser enviados automaticamente para uma planilha no Notion, que já estará formatada para receber e organizar os dados.
