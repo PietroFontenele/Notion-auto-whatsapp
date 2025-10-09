@@ -5,7 +5,7 @@
 ## Projeto de Automação Financeira via WhatsApp e Notion
 
 ## Responsáveis pelo desenvolvimento:
-•	Tiago Santos Felisberto
+•	Thiago Santos Felisberto
 
 •	Pietro Fontenelle
 
