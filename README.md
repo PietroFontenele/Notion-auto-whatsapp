@@ -100,7 +100,7 @@ ________________________________________
 ________________________________________
 
 ## 4. Responsabilidades
-•	Tiago e Pietro Fontenelle: desenvolver a automação, configurar a comunicação entre WhatsApp e Notion e garantir que os dados sejam enviados corretamente.
+•	Thiago e Pietro Fontenelle: desenvolver a automação, configurar a comunicação entre WhatsApp e Notion e garantir que os dados sejam enviados corretamente.
 
 •	Valcelio Fontenelle e Wagner: orientar, revisar e validar os resultados da automação, além de fornecer a estrutura inicial no Notion.
 
