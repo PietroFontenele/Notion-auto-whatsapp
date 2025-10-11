@@ -12,6 +12,8 @@
   "author": "Pietro Fontenele",
   "license": "ISC",
   "dependencies": {
-    "@notionhq/client": "^4.0.2"
+    "@notionhq/client": "^4.0.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.1"
   }
 }
